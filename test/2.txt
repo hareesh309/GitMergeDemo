@@ -1,2 +1,7 @@
 add by master dev-1
 by hareesh dev-2
+
+after merge 
+
+hi hareesh doing good?
+
